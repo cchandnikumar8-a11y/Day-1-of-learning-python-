@@ -1,13 +1,9 @@
 # Day-1-of-learning-python-
-print("hello I'm AMEXTRA")
 
-name = input("what is your name?")
+#variables
 
-print("My name is Aditya")
+# The Name is the Variable name
+Name = Aditya
+print(Name)
 
-age=15
-
-print(3*5)
-
-for x in range(3)
-print("AMEXTRA")
+# print is use for variable name
